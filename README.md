@@ -23,7 +23,7 @@ A smooth, professional-grade digital signage system designed specifically for Ra
 ### Option 1: One-Line Installer (Recommended)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/pisignage-pro/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Rupakpoddar/pisignage-pro/main/install.sh | bash
 ```
 
 ### Option 2: Manual Installation
